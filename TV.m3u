@@ -28,6 +28,9 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",BBC Earth
+https://apollo.production-public.tubi.io/live/ac-bbc-earth2.m3u8
+
 #EXTINF:-1 tvg-id="SukanRTM.my" tvg-logo="https://i.imgur.com/1pYYSu2.png" group-title="Undefined",RTM SUKAN
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
