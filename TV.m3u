@@ -28,8 +28,13 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
 
+#EXTINF:-1 tvg-id="NationalGeographicHDEast.us" tvg-logo="https://i.imgur.com/8vp2CdP.png" group-title="Documentary",National Geographic HD East (720p)
+https://tvpass.org/live/NationalGeographicEast/hd
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",BBC Earth
 https://apollo.production-public.tubi.io/live/ac-bbc-earth2.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographicWildHDEast.us" tvg-logo="https://i.imgur.com/WEv09Ak.png" group-title="Documentary",National Geographic Wild HD East (720p)
 
 #EXTINF:-1 tvg-id="KidsMovieClub.us" tvg-logo="https://i.imgur.com/avFk0Tt.png" group-title="Kids;Movies",KIDS MOVIE CLUB
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a7777f6-4245-4af6-b0b4-ee772b6bbeac
@@ -42,4 +47,7 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5
 
 #EXTINF:-1 tvg-id="DisneyChannelEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="Kids",Disney Channel East
 https://tvpass.org/live/DisneyChannelEast/hd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",ANAL
+http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/anal.m3u8
 
